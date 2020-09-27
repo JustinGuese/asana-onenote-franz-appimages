@@ -4,6 +4,5 @@ mailspring
 megasync
 nordvpn-bin
 skypeforlinux-stable-bin
-spotify
 teamviewer
 visual-studio-code-bin
