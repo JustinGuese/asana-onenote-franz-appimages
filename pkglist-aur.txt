@@ -1,8 +1,10 @@
 authy
-cryptomator
-mailspring
+bitwarden
+flat-remix-gnome
+franz
 megasync
-nordvpn-bin
-skypeforlinux-stable-bin
+ocs-url
+octopi
 teamviewer
 visual-studio-code-bin
+yay
