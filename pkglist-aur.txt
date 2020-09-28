@@ -1,7 +1,10 @@
 authy
 bitwarden
+cryptomator
 flat-remix-gnome
 franz
+gnome-terminal-transparency
+mailspring
 megasync
 ocs-url
 octopi

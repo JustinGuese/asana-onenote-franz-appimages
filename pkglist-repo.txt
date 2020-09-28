@@ -1,3 +1,4 @@
+amd-ucode
 autoconf
 automake
 baobab
@@ -52,7 +53,6 @@ gnome-shell
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
-gnome-terminal
 gnome-themes-extra
 gnome-tweaks
 gnome-user-docs
@@ -75,6 +75,8 @@ libtool
 lightdm
 linux
 linux-firmware
+linux-lts
+linux-lts-headers
 lvm2
 m4
 make
@@ -83,6 +85,7 @@ nano
 nautilus
 network-manager-applet
 networkmanager
+ntfs-3g
 orca
 pacman
 patch
@@ -98,8 +101,10 @@ tilix
 totem
 tracker
 tracker-miners
+ufw
 vi
 vino
+wget
 which
 wireless_tools
 wpa_supplicant
