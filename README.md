@@ -43,10 +43,8 @@ Then restore using the following two commands.
 
 ## Reinstall from list - repository:
 
-> for x in $(cat pkglist-repo.txt); do pacman -S --noconfirm --needed $x; done
-
 This here was the original command given, but it did not work. Still don't know why.
-> sudo pacman -S --needed $(< pkglist-repo.txt)
+> sudo pacman -S --needed --noconfirm $(< pkglist-repo.txt)
 
 Reinstall from list - AUR:
 have yaourt reinstall all those extra packages you had:
