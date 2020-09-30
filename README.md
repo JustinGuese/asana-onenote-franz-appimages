@@ -65,3 +65,13 @@ Reinstall from list - AUR:
 have yaourt reinstall all those extra packages you had:
 Code: [Select]
 > yay -S --needed --noconfirm $(< pkglist-aur.txt)
+
+---
+
+## imwheel setup
+
+> sudo pacman -S imwheel
+add to ~/.xsession 
+> imwheel -b 45
+run speed script once
+> mousespeedscript.sh
