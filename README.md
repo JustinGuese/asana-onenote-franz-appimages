@@ -20,15 +20,6 @@ Then copy desktop files to gnome
 
 ---
 
-## Imwheel Mouse shitty wheel
-
-The mouswheel is fucked, install imwheel and run shitty imwheel.sh to adjust
-> sudo pacman -S imwheel
-> chmod +x ./imwheel.sh
-> ./imwheel.sh
-
----
-
 ## Backup and restore packages
 
 Backup - repository
@@ -50,13 +41,9 @@ just do a quick standard installation of Manjaro from a recent ISO on the other 
 Do pending updates first in the new installation!
 Then restore using the following two commands.
 
-Reinstall from list - repository:
-have pacman reinstall all those packages you had installed on the other machine:
-Code: [Select]
-> sudo su
-then run:
-Code: [Select]
-> for x in $(cat pkglist-repo.txt); do pacman -S --needed $x; done
+## Reinstall from list - repository:
+
+> for x in $(cat pkglist-repo.txt); do pacman -S --noconfirm --needed $x; done
 
 This here was the original command given, but it did not work. Still don't know why.
 > sudo pacman -S --needed $(< pkglist-repo.txt)
