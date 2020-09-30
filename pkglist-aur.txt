@@ -1,4 +1,5 @@
 authy
+autojump
 bitwarden
 cryptomator
 flat-remix-gnome
@@ -6,6 +7,8 @@ franz
 gnome-terminal-transparency
 mailspring
 megasync
+nerd-fonts-hack
+nordvpn-bin
 ocs-url
 octopi
 teamviewer
