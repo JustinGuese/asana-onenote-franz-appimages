@@ -5,12 +5,14 @@ cryptomator
 flat-remix-gnome
 franz
 gnome-terminal-transparency
+howdy
+joplin
 mailspring
-megasync
 nerd-fonts-hack
 nordvpn-bin
 ocs-url
 octopi
+pfetch-git
 teamviewer
 visual-studio-code-bin
 yay
