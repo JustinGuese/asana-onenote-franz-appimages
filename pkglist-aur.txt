@@ -1,5 +1,6 @@
 authy
 autojump
+aws-sam-cli
 azure-cli
 ch34x-dkms-git
 cryptomator
