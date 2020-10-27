@@ -2,8 +2,6 @@ accerciser
 alsa-utils
 amd-ucode
 android-tools
-arduino
-arduino-docs
 autoconf
 automake
 avr-binutils
@@ -20,7 +18,6 @@ cheese
 chrome-gnome-shell
 chromium
 cmake
-cronie
 cuda
 cudnn
 cups
@@ -96,6 +93,7 @@ gnome-sound-recorder
 gnome-sudoku
 gnome-system-monitor
 gnome-taquin
+gnome-terminal
 gnome-tetravex
 gnome-themes-extra
 gnome-todo

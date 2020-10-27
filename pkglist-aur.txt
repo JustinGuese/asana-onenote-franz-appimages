@@ -5,9 +5,6 @@ azure-cli
 ch34x-dkms-git
 cryptomator
 debtap
-flat-remix-gnome
-gnome-shell-extension-material-shell-git
-gnome-terminal-transparency
 joplin
 mailspring
 megasync-git
