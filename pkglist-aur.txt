@@ -2,6 +2,7 @@ authy
 autojump
 aws-sam-cli
 azure-cli
+bitwarden-bin
 ch34x-dkms-git
 cryptomator
 debtap
@@ -16,8 +17,10 @@ pfetch-git
 pgmodeler
 prismatik
 rambox-bin
+skypeforlinux-stable-bin
+snapd
+spotify
 teams
 teamviewer
-tor-browser
 visual-studio-code-bin
 yay
